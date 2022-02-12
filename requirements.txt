@@ -100,6 +100,7 @@ traitlets==4.3.3
 transformers==4.3.0
 Twisted==20.3.0
 typing-extensions==3.10.0.0
+unicorn==1.0.3
 urllib3==1.25.9
 w3lib==1.21.0
 wcwidth==0.2.4
